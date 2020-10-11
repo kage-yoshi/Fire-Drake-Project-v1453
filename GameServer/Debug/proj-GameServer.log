@@ -1,0 +1,104 @@
+﻿  StdAfx.cpp
+  N3ShapeMgr.cpp
+  User.cpp
+  UpgradeHandler.cpp
+  Unit.cpp
+  TradeHandler.cpp
+  ShoppingMallHandler.cpp
+  SealHandler.cpp
+  LoadServerData.cpp
+  RentalHandler.cpp
+  Region.cpp
+  QuestHandler.cpp
+  PartyHandler.cpp
+  CharacterHandler.cpp
+  NPCHandler.cpp
+  Npc.cpp
+  MerchantHandler.cpp
+  Map.cpp
+  main.cpp
+  MagicProcess.cpp
+  MagicInstance.cpp
+  lua_bindings.cpp
+  Generating Code...
+  Compiling...
+  LuaEngine.cpp
+  LoginHandler.cpp
+  LetterHandler.cpp
+  KnightsManager.cpp
+  Knights.cpp
+  KingSystem.cpp
+  ItemHandler.cpp
+  GameEvent.cpp
+  FriendHandler.cpp
+  EventHandler.cpp
+  GameServerDlg.cpp
+  DBAgent.cpp
+  DatabaseThread.cpp
+  ConsoleInputThread.cpp
+  ChatHandler.cpp
+  CharacterMovementHandler.cpp
+  CharacterSelectionHandler.cpp
+  AttackHandler.cpp
+  ArenaHandler.cpp
+  AISocket.cpp
+  Generating Code...
+Lua.lib(lapi.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lapi.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lauxlib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lauxlib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lbaselib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lbaselib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lbitlib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lbitlib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lcode.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lcode.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lcorolib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lcorolib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lctype.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lctype.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(ldblib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(ldblib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(ldebug.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(ldebug.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(ldo.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(ldo.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(ldump.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(ldump.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lfunc.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lfunc.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lgc.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lgc.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(linit.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(linit.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(liolib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(liolib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(llex.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(llex.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lmathlib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lmathlib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lmem.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lmem.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(loadlib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(loadlib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lobject.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lobject.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lopcodes.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lopcodes.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(loslib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(loslib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lparser.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lparser.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lstate.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lstate.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lstring.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lstring.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lstrlib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lstrlib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(ltable.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(ltable.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(ltablib.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(ltablib.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(ltm.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(ltm.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lundump.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lundump.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lvm.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lvm.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+Lua.lib(lzio.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'Lua.lib(lzio.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(CircularBuffer.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(CircularBuffer.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(Condition.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(Condition.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(crc32.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(crc32.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(OdbcCommand.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(OdbcCommand.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(OdbcConnection.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(OdbcConnection.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(OdbcParameter.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(OdbcParameter.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(OdbcRecordset.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(OdbcRecordset.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(DebugUtils.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(DebugUtils.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(globals.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(globals.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(HardwareInformation.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(HardwareInformation.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(Ini.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(Ini.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(JvCryption.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(JvCryption.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(KOSocket.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(KOSocket.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(lzf.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(lzf.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(ReferenceObject.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(ReferenceObject.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(RWLock.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(RWLock.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(signal_handler.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(signal_handler.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(SMDFile.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(SMDFile.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(Socket.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(Socket.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(SocketMgr.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(SocketMgr.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(SocketOpsWin32.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(SocketOpsWin32.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(SocketWin32.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(SocketWin32.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(stdafx.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(stdafx.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(Thread.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(Thread.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(TimeThread.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(TimeThread.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(tstring.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(tstring.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+  proj-GameServer.vcxproj -> C:\Users\brzez\Desktop\Legends Knight Online\Source Code\..\Server Files\GameServer.exe

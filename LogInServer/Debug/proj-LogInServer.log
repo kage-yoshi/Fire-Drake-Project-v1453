@@ -1,0 +1,29 @@
+﻿  StdAfx.cpp
+  LoginServer.cpp
+  main.cpp
+  LoginSession.cpp
+  DBProcess.cpp
+  Generating Code...
+shared.lib(CircularBuffer.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(CircularBuffer.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(Condition.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(Condition.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(crc32.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(crc32.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(OdbcCommand.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(OdbcCommand.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(OdbcConnection.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(OdbcConnection.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(OdbcParameter.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(OdbcParameter.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(DebugUtils.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(DebugUtils.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(globals.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(globals.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(Ini.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(Ini.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(JvCryption.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(JvCryption.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(KOSocket.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(KOSocket.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(lzf.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(lzf.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(RWLock.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(RWLock.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(signal_handler.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(signal_handler.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(Socket.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(Socket.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(SocketMgr.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(SocketMgr.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(SocketOpsWin32.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(SocketOpsWin32.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(SocketWin32.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(SocketWin32.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(stdafx.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(stdafx.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(Thread.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(Thread.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(TimeThread.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(TimeThread.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+shared.lib(tstring.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'shared.lib(tstring.obj)' or at 'C:\Users\brzez\Desktop\Legends Knight Online\Server Files\vc110.pdb'; linking object as if no debug info
+  proj-LogInServer.vcxproj -> C:\Users\brzez\Desktop\Legends Knight Online\Source Code\..\Server Files\LogInServer.exe

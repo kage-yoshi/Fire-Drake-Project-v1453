@@ -1,0 +1,30 @@
+﻿  stdafx.cpp
+  tstring.cpp
+  Thread.cpp
+  SocketWin32.cpp
+  SocketOpsWin32.cpp
+  SocketMgr.cpp
+  Socket.cpp
+  signal_handler.cpp
+  RWLock.cpp
+  ReferenceObject.cpp
+  KOSocket.cpp
+  JvCryption.cpp
+  HardwareInformation.cpp
+  globals.cpp
+  OdbcRecordset.cpp
+  OdbcParameter.cpp
+  OdbcConnection.cpp
+  OdbcCommand.cpp
+  Condition.cpp
+  CircularBuffer.cpp
+  Generating Code...
+  lzf.c
+  crc32.c
+  Generating Code...
+  TimeThread.cpp
+  SMDFile.cpp
+  Ini.cpp
+  DebugUtils.cpp
+  Generating Code...
+  shared.vcxproj -> C:\Users\brzez\Desktop\Legends Knight Online\Source Code\..\Server Files\shared.lib
